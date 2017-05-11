@@ -10,12 +10,15 @@ The backlog contains two user stories:
 
 The app has already been designed:
 - [Empty to-do list](to-do-list-empty.png)
-- To-do list with one incomplete item
-- To-do list with one complete item
+- [To-do list with one incomplete item](to-do-list-one-incomplete.png)
+- [To-do list with one complete item](to-do-list-one-complete.png)
 
 ## Task
-Write acceptance criterias (max 6) for the user stories in the backlog using Gherkin syntax.
+Write acceptance criteria for the user stories in the backlog:
+- use Gherkin syntax,
+- max 6 acceptance criteria,
+- be creative :)
 
-Helpful link:
+## Helpful link:
 - https://manning-content.s3.amazonaws.com/download/a/bdba704-bf94-4c86-ac9a-a8c9353bee14/BDD_CH01.pdf
 - https://github.com/cucumber/cucumber/wiki/Gherkin
