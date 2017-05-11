@@ -9,7 +9,7 @@ The backlog contains two user stories:
 2) As a user I want to mark my to-do item as complete, so that I keep my list up-to-date.
 
 The app has already been designed:
-- Empty to-do list
+- [Empty to-do list](to-do-list-empty.png)
 - To-do list with one incomplete item
 - To-do list with one complete item
 
