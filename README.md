@@ -19,6 +19,12 @@ Write acceptance criteria for the user stories in the backlog:
 - max 6 acceptance criteria,
 - be creative :)
 
+> Note from Eliza:
+It's not specified in task above if it should be 6 acceptance criteria per story,
+(1 ACC = 1 Scenario in Gherkin) or 6 acceptance criteria for both stories. 
+As my task was to be creative here and I enjoyed it :) - I created 12 scenarios overall.
+Thanks! 
+
 ## Helpful link:
 - https://manning-content.s3.amazonaws.com/download/a/bdba704-bf94-4c86-ac9a-a8c9353bee14/BDD_CH01.pdf
 - https://github.com/cucumber/cucumber/wiki/Gherkin
